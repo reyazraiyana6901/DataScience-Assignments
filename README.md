@@ -26,3 +26,5 @@ Each assignment includes EDA, data preprocessing, model building, evaluation, an
 ## 📁 Structure
 All assignments are organized into folders based on topics.  
 Each notebook is clean and includes explanations and insights.
+
+Dataset source: Provided by ExcelR (not uploaded due to size/privacy).
